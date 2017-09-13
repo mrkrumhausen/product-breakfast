@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Startup breakfast
+Get immediate, constructive, feedback from doers like youself.
 
-You can use the [editor on GitHub](https://github.com/mrkrumhausen/startup-breakfast/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who Should Attend?
+- Anyone who wants feedback from fellow entrepreneurs on their business model
+- Anyone who wants to test an idea for a startup or an early-stage company
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What's on the Agenda
+08:00: Check-in: Settle in with some coffee & something to eat
+08:10 Topic
+08:30 am: Round table presentation of what you’re working on and get immediate, constructive feedback from like-minded entrepreneurs. (Total 4 minutes each)
+9:00 am: Networking: Analog socialising as in human-to-human interaction
+10:00 am: Hard-stop
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Where we're at
+[Absalons Kirke](http://absaloncph.dk)
+Sønder Blvd. 73, 1720 København V
 
-- Bulleted
-- List
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2250.3568159680253!2d12.54807785137117!3d55.66539510610201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652537644f2540d%3A0x52c1a2c38a7a35e0!2sAbsalon!5e0!3m2!1sen!2sdk!4v1505295518831" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Past & future topics
+- Blockchain
+- AI
+- Digital manufacturing
+- Food tech
+- Machine Learning
+- Work happiness
+- Productivity
+- Talent
+- etc.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrkrumhausen/startup-breakfast/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+Please contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Sebastian Krumhausen](http://krumhausen.com).
+p.	+1 604.209.8173
+@.	krumhausen@gmail.com
