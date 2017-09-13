@@ -1,4 +1,4 @@
-## Startup breakfast
+# Startup Breakfast
 Get immediate, constructive, feedback from doers like youself.
 
 
@@ -8,11 +8,11 @@ Get immediate, constructive, feedback from doers like youself.
 
 
 ### What's on the Agenda
-08:00: Check-in: Settle in with some coffee & something to eat
-08:10 Topic
-08:30 am: Round table presentation of what you’re working on and get immediate, constructive feedback from like-minded entrepreneurs. (Total 4 minutes each)
-9:00 am: Networking: Analog socialising as in human-to-human interaction
-10:00 am: Hard-stop
+- 08:00: Check-in: Settle in with some coffee & something to eat
+- 08:10 Topic
+- 08:30 am: Round table presentation of what you’re working on and get immediate, constructive feedback from like-minded entrepreneurs. (Total 4 minutes each)
+- 9:00 am: Networking: Analog socialising as in human-to-human interaction
+- 10:00 am: Hard-stop
 
 
 ### Where we're at
@@ -37,6 +37,6 @@ Sønder Blvd. 73, 1720 København V
 ### Support or Contact
 Please contact
 
-[Sebastian Krumhausen](http://krumhausen.com).
-p.	+1 604.209.8173
-@.	krumhausen@gmail.com
+[Sebastian Krumhausen](http://krumhausen.com)
+p	+1 604.209.8173
+@	krumhausen@gmail.com
