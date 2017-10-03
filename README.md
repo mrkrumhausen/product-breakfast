@@ -1,5 +1,5 @@
 # Startup Breakfast
-Get immediate, constructive, feedback from doers like youself.
+Get immediate, constructive, feedback from doers like yourself.
 
 
 ### Who Should Attend?
@@ -8,11 +8,11 @@ Get immediate, constructive, feedback from doers like youself.
 
 
 ### What's on the Agenda
-- 08:00: Check-in: Settle in with some coffee & something to eat
-- 08:10 Topic
-- 08:30 am: Round table presentation of what you’re working on and get immediate, constructive feedback from like-minded entrepreneurs. (Total 4 minutes each)
-- 9:00 am: Networking: Analog socialising as in human-to-human interaction
-- 10:00 am: Hard-stop
+- 07:30: Check-in: Settle in with some coffee & something to eat
+- 07:40: Round table presentation of what you’re working on and get immediate, constructive feedback from like-minded entrepreneurs. (Total 4 minutes each)
+- 8:00: Entrepreneur receives feedback on a specific problem
+- 8:30: Networking: Analog socialising as in human-to-human interaction
+- 09:00: Hard-stop
 
 
 ### Where we're at
